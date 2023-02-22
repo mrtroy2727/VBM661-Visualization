@@ -1,2 +1,2 @@
 # VBM661-Visualization
-Course Repo on 2023 Spring
+Hacettepe Institute of Informatics Course Repo on 2023 Spring
